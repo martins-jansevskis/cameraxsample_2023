@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "135239042834",
+    "project_id": "mediarercordersample",
+    "storage_bucket": "mediarercordersample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135239042834:android:65c846a0b68b6424d8d5cb",
+        "android_client_info": {
+          "package_name": "lv.jansevskis.martins.praktiskais_mpi_2_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135239042834-tesi3s073bhuskqukk4m91bkv4r6q096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhv-aUfu_BhIH2GNBouW5kry1CjpSzfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135239042834-tesi3s073bhuskqukk4m91bkv4r6q096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135239042834:android:8604f22912f85006d8d5cb",
+        "android_client_info": {
+          "package_name": "lv.martins.cameraxsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135239042834-tesi3s073bhuskqukk4m91bkv4r6q096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhv-aUfu_BhIH2GNBouW5kry1CjpSzfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135239042834-tesi3s073bhuskqukk4m91bkv4r6q096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135239042834:android:76b6a2423735784ad8d5cb",
+        "android_client_info": {
+          "package_name": "lv.martins.mediarercordersample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135239042834-tesi3s073bhuskqukk4m91bkv4r6q096.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhv-aUfu_BhIH2GNBouW5kry1CjpSzfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135239042834-tesi3s073bhuskqukk4m91bkv4r6q096.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
